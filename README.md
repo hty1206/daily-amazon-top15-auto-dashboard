@@ -14,6 +14,7 @@ This project focuses on fully automating the entire process, from data scraping 
 ## ☞ Data Visualization - Daily-Auto Dashboard
 ***[Click here to view and download the report for Amazon's daily top 15 products in the Home & Kitchen, Grocery & Gourmet Food, and Apps & Games categories](https://lookerstudio.google.com/reporting/26890c4a-4eb1-4106-8393-0b329f7f24bf)***  
 *The update time is every day at 10:00 AM* :clock10:
+*Time zone: America/New_York* 🌎
 
 <img src="Home & Kitchen.jpg" width="1100" />  
 <img src="Grocery & Gourmet Food.jpg" width="1100" />  
